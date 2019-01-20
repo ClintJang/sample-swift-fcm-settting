@@ -1,7 +1,7 @@
-# iOS Swift FCM Push 메시지를 설정 해본 Sample입니다.
+# iOS Swift FCM Push 메시지를 설정 해본 Sample입니다. ☺️
 iOS FCM(Firebase Cloud Messaging), Push 메시지 최소한의 설정해본 샘플입니다. 미디엄에 글을 쓰고 예제 소스 링크를 위해 만들었습니다.
 
-- [FCM(Firebase Cloud Messaging), Push 메시지 설정해보기 **미디엄 링크**](https://medium.com/@jang.wangsu/ios-swift-fcm-firebase-cloud-messaging-push-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%84%A4%EC%A0%95%ED%95%B4%EB%B3%B4%EA%B8%B0-852a9af23b96) 
+- ⭐ [FCM(Firebase Cloud Messaging), Push 메시지 설정해보기 **미디엄 링크**](https://medium.com/@jang.wangsu/ios-swift-fcm-firebase-cloud-messaging-push-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%84%A4%EC%A0%95%ED%95%B4%EB%B3%B4%EA%B8%B0-852a9af23b96) 
 
 # 참고 사항
 - CocoaPods 로 구성되어있습니다. 
@@ -10,7 +10,7 @@ iOS FCM(Firebase Cloud Messaging), Push 메시지 최소한의 설정해본 샘�
 - GoogleService-Info.plist 파일은 제외하고 소스를 올렸습니다. 
 	- 미디엄 링크 내용 중 아래 이미지 처럼 `GoogleService-Info.plist`을 내려받을 수 있는 진행이 있습니다. 해당 파일을 넣어주시면 됩니다. 
 	
-	<img src='/Image/readme_info_01.png' width='300' />
+	<img src='/Image/readme_info_01.png' width='400' />
 
 # 상세
 - [Podfile](https://github.com/ClintJang/sample-swift-fcm-settting/blob/master/JWSFCMSample/Podfile)
@@ -81,7 +81,15 @@ extension AppDelegate: MessagingDelegate {
     <th>Background Modes</th>
   </tr>
   <tr>
-  	<td><img width="250" src="/Image/readme_info_02.png"></img></td>
-    <td><img width="250" src="/Image/readme_info_03.png"></img></td>
+  	<td><img width="400" src="/Image/readme_info_02.png"></img></td>
+    <td><img width="400" src="/Image/readme_info_03.png"></img></td>
   </tr>
 </table>
+
+<br />
+<br />
+
+## 감사합니다.
+
+<br />즐거운 하루 되세요 🙇‍
+<br />
